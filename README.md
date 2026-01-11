@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proudcat8&label=Profile%20views&color=0e75b6&style=flat" alt="proudcat8" /> </p>
 
-- 🔭 I’m currently working on **nullcomm**
+- I’m currently working on **nullcomm**
 
-- 🌱 I’m currently learning **React, python LLM, Rust**
+- I’m currently learning **React, python LLM, Rust**
 
-- 🤝 I’m looking for help with **anything**
+- I’m looking for help with **anything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/proudcat8](https://github.com/proudcat8)
+- All of my projects are available at [https://github.com/proudcat8](https://github.com/proudcat8)
 
-- 💬 Ask me about **anything you want to know**
+- Ask me about **anything you want to know**
 
-- 📫 How to reach me **aditya9810das@gmail.com**
+- How to reach me **aditya9810das@gmail.com**
 
-- ⚡ Fun fact **i'm not even 18 yet**
+- Fun fact **i'm not even 18 yet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
